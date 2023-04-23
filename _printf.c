@@ -53,6 +53,9 @@ int _printf(const char *format, ...)
 	return (printed_chars);
 }
 
+
+
+
 /**
  * print_buffer - Prints the contents of the buffer if it exist
  * @buffer: Array of chars
